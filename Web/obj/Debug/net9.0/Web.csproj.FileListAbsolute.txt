@@ -101,3 +101,4 @@ C:\Users\Tamer\Desktop\TodoSolution\Web\obj\Debug\net9.0\refint\Web.dll
 C:\Users\Tamer\Desktop\TodoSolution\Web\obj\Debug\net9.0\Web.pdb
 C:\Users\Tamer\Desktop\TodoSolution\Web\obj\Debug\net9.0\Web.genruntimeconfig.cache
 C:\Users\Tamer\Desktop\TodoSolution\Web\obj\Debug\net9.0\ref\Web.dll
+C:\Users\Tamer\Desktop\TodoSolution\Web\obj\Debug\net9.0\Web.sourcelink.json

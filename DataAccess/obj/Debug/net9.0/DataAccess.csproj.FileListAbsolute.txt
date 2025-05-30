@@ -9,3 +9,4 @@ C:\Users\Tamer\Desktop\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.dll
 C:\Users\Tamer\Desktop\TodoSolution\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
 C:\Users\Tamer\Desktop\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.pdb
 C:\Users\Tamer\Desktop\TodoSolution\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll
+C:\Users\Tamer\Desktop\TodoSolution\DataAccess\obj\Debug\net9.0\DataAccess.sourcelink.json

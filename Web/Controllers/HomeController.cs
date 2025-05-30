@@ -38,6 +38,14 @@ public class HomeController : Controller
         return RedirectToAction("Index");
     }
 
+    [HttpPost]
+    public IActionResult DeleteTask(int id)
+    {
+        taskService.DeleteTask(id);
+        
+        return RedirectToAction("Index");
+    }
+
     public IActionResult Privacy()
     {
         return View();

@@ -15,4 +15,14 @@ public class TaskRepository
     public void Add(TaskItem task) => tasks.Add(task);
 
     public TaskItem? GetById(int id) => tasks.FirstOrDefault(t => t.Id == id);
+
+    public void Delete(int id)
+    {
+        TaskItem? task = tasks.FirstOrDefault(t => t.Id == id);
+
+        if(task != null)
+        {
+            tasks.Remove(task);
+        }
+    }
 }
